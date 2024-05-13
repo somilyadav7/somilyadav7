@@ -81,8 +81,7 @@
   </a>
 </p>
 
-
-<br/>
+<h3>GitHub Stats</h3>
 
 <div>
 <p>
@@ -103,6 +102,5 @@
 
 <br/>
 <p align="left">
-  <h3>GitHub Stats</h3><br>
   <img src="https://github-profile-trophy.vercel.app/?username=somilyadav7" />
 </p>
