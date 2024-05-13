@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **React Native, DS and Algos**
+- 🌱 I’m currently learning **React Native, Machine Learning, DS and Algos**
 
 - 💬 Ask me about **MERN, DS and Algos**
 
@@ -106,5 +106,3 @@
   <h3>GitHub Stats</h3><br>
   <img src="https://github-profile-trophy.vercel.app/?username=somilyadav7" />
 </p>
-
-[![An image of @somilyadav7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/somilyadav7)](https://holopin.io/@somilyadav7)
