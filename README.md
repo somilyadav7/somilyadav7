@@ -1,15 +1,16 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Somil Yadav</h1>
 <h3 align="center">A CS undergrad from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somilyadav7&label=Profile%20views&color=0e75b6&style=flat" alt="somilyadav7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somilyadav7" alt="somilyadav7" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, DS and Algos**
 
 - 💬 Ask me about **MERN, DS and Algos**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somilyadav7" alt="somilyadav7" style="padding: 10px;" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
